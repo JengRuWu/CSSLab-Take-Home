@@ -1,5 +1,11 @@
 # CSSLab-Take-Home
 
+## How to run the code?
+- After cloning/downloading the codes, please go to /my-experiment
+- Run ```meteor npm install``` to install node modules
+- Run ```meteor``` to start the app
+- Go to http://localhost:3000/ to use the app
+
 ## About how many hours did it take for you to implement this task?
 It took me about 5 hours to implement the task:
 - getting familiar with Empirica (documentation, sample task, youtube tutorial) - 1 hour
