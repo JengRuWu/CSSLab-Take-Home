@@ -1,9 +1,9 @@
 # CSSLab-Take-Home
 
 ## How to run the code?
-- After cloning/downloading the codes, please go to /my-experiment
-- Run ```meteor npm install``` to install node modules
-- Run ```meteor``` to start the app
+- After cloning/downloading the codes, please go into /my-experiment directory
+- Run ```meteor npm install``` on command line to install node modules
+- Run ```meteor``` on command line to start the app
 - Go to http://localhost:3000/ to use the app
 
 ## About how many hours did it take for you to implement this task?
